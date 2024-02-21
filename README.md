@@ -47,5 +47,5 @@ ARPU считается относительно всех пользовател
 | subject	        | text 	       |
 
 
-### Код
+## Код
 Код [здесь](https://github.com/ValeriaGlushkova/Analysis-of-educational-courses/blob/main/SQL_metrics.ipynb)
