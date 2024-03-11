@@ -45,7 +45,3 @@ ARPU считается относительно всех пользовател
 | sale_time        	| timestamp	   | Время покупки                          |
 | money	            | int	       | Цена, по которой приобрели данный курс |
 | subject	        | text 	       |
-
-
-## Код
-Код [здесь](https://github.com/ValeriaGlushkova/Analysis-of-educational-courses/blob/main/SQL_metrics.ipynb)
