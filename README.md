@@ -45,3 +45,14 @@ ARPU считается относительно всех пользовател
 | sale_time        	| timestamp	   | Время покупки                          |
 | money	            | int	       | Цена, по которой приобрели данный курс |
 | subject	        | text 	       |
+
+# Стек
+- Python
+- Pandas
+- Pandahouse
+
+# Выводы
+
+![pic](https://github.com/ValeriaGlushkova/Analysis-of-educational-courses/blob/main/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8.png)
+
+В группе pilot, где использовалась модель trial, все метрики увеличились, что значит, что система trial показывает себя лучше. Логично предположить, что клиент охотнее покупает продукт, так как у него есть возможность частично опробовать его.
